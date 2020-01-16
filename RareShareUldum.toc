@@ -1,0 +1,12 @@
+## Interface: 80300
+## Title: Rare Share: |cff9900ccUldum
+## Notes: The Uldum extension for the Rare Share addon
+## Author: solocommand
+## Version: v1.0.0
+## DefaultState: enabled
+## Dependencies: RareShare
+## SavedVariables: RareShareDB_Uldum
+
+locales\enUS.lua
+
+RareShareUldum.lua
