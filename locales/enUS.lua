@@ -1,7 +1,7 @@
 local AddonName, Addon = ...
 
 Addon.Loc = {
-    Title = "Uldum",
+    Title = "Visions of N'Zoth",
     Rares = {
         [157170] = "Acolyte Taspu",
         [158557] = "Actiss the Deceiver",
