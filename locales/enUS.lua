@@ -3,6 +3,7 @@ local AddonName, Addon = ...
 Addon.Loc = {
     Title = "Visions of N'Zoth",
     Rares = {
+        -- Uldum
         [157170] = "Acolyte Taspu",
         [158557] = "Actiss the Deceiver",
         [151883] = "Anaua",
@@ -54,5 +55,21 @@ Addon.Loc = {
         [151852] = "Watcher Rehu",
         [157164] = "Zealot Tekem",
         [162141] = "Zuythiz",
+
+        -- Vale of Eternal Blossoms
+        [154447] = "Brother Meller",
+        [154467] = "Chief Mek-mek",
+        [159087] = "Corrupted Bonestripper",
+        [154559] = "Deeplord Zrihj",
+        [157267] = "Escaped Mutation",
+        [157266] = "Kilxl the Gaping Maw",
+        [154106] = "Quid",
+        [154490] = "Rijz'x the Devourer",
+        [157176] = "The Forgotten",
+        [157468] = "Tisiphon",
+        [154394] = "Veskan the Fallen",
+        [154332] = "Voidtender Malketh",
+        [154495] = "Will of N'Zoth",
+        [154087] = "Zror'um the Infinite",
     },
 }
